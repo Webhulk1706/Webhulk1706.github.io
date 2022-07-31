@@ -78,7 +78,8 @@ font-family: 'Comfortaa', cursive; */
 
 .title-name{
     position: absolute;
-    top: 10px;
+    top: 20px;
+    left: 0px;
     font-family: 'Bungee', cursive;
     font-size: 35px;
     color: rgb(0,0,0,0.7);
